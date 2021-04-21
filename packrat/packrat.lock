@@ -1,0 +1,9 @@
+PackratFormat: 1.4
+PackratVersion: 0.6.0
+RVersion: 4.0.4
+Repos: CRAN=https://mirrors.ustc.edu.cn/CRAN/
+
+Package: packrat
+Source: CRAN
+Version: 0.6.0
+Hash: 62fd532b7524f498caa3cf4cc5f15490
